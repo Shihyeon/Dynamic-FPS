@@ -1,22 +1,22 @@
 [versions]
-minecraft = "1.20.5"
+minecraft = "1.17.1"
 
 # Platform libraries
 
 fabric_loader = "0.15.10"
-fabric_api = "0.97.4+1.20.5"
+fabric_api = "0.46.1+1.17"
 
-forge = "1.20.4-49.0.30"
+forge = "1.17.1-37.1.1"
 
 neoforge = "20.5.0-beta"
 
 quilt_loader = "0.25.0"
-quilt_standard_libraries = "8.0.0-alpha.12+1.20.4"
+quilt_standard_libraries = "1.1.0-beta.26+1.18.2"
 
 # Third-party libraries
 
-modmenu = "10.0.0-alpha.3"
-cloth_config = "14.0.125"
+modmenu = "2.0.17"
+cloth_config = "5.3.63"
 
 mixinextras = "0.3.5"
 
